@@ -1,4 +1,5 @@
-import org.altbeacon.beacon.service.RssiFilter;
+package org.altbeacon.beacon.service;
+
 
 import java.util.ArrayList;
 
